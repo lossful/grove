@@ -1,6 +1,5 @@
 ---
 title: "Куст любистока"
-disableToc: true
 tags:
 - собрание
 ---
