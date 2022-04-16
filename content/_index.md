@@ -2,6 +2,6 @@
 title: 🍁 Марк
 ---
 
-- [О себе](about.md)
-- [Поэзия](poetry.md) и [заметки](notes/main.md)
+- [[about|О себе]]
+- [[poetry|Поэзия]] и [[notes/main|заметки]]
 - [Фотографии](https://pixelfed.social/Marc "@marc@pixelfed.social") ActivityPub  
