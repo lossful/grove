@@ -3,3 +3,5 @@ title: Заметки
 ---
 
 ### [Орхидеи](notes/orchids.md) . [Большинство игр — это трата времени, но есть и хорошие](notes/games.md)
+
+[[notes/orchids|testtest]]
