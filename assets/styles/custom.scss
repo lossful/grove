@@ -1,19 +1,14 @@
 // Add your own CSS here!
 :root {
-  --light: #FFD2B4;
-  --dark: #440400;
-  --secondary: #440400bd;
-  --tertiary: #440400;
-  --visited: #4404006e;
+  --light: #faf8f8;
+  --dark: #141021;
+  --secondary: #284b63;
+  --tertiary: #84a59d;
+  --visited: #afbfc9;
   --primary: #f28482;
-  --gray: #440400;
+  --gray: #4e4e4e;
   --lightgray: #f0f0f0;
-  --outlinegray: #44040024;
-  --g-link-active: #440400ad !important;
-}
-
-article a.internal-link {
-  background-color: #4404001a !important;
+  --outlinegray: #dadada;
 }
 
 [saved-theme="dark"] {
