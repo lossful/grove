@@ -1,5 +1,5 @@
 baseURL = "https://coals.cf"
-languageCode = "en-us"
+languageCode = "ru"
 googleAnalytics = "0"
 pygmentsUseClasses = true
 relativeURLs = false
