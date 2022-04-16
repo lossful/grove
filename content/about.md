@@ -1,6 +1,5 @@
 ---
 title: О себе
-enableToc: true
 ---
 
 Хайдзин-рыболов.
@@ -11,4 +10,4 @@ enableToc: true
 
 - Matrix [@marc:tchncs.de](https://matrix.to/#/@marc:tchncs.de)
 - Telegram [@Lossful](https://t.me/lossful)
-- E-mail [vaups2o8@duck.com](mailto:vaups2o8@duck.com)
+- E-mail <a href='mailto:vaups2o8@duck.com'>vaups2o8@duck.com</a>

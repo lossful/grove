@@ -11,6 +11,11 @@
   --outlinegray: #dadada;
 }
 
+div.poem {
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+
 [saved-theme="dark"] {
   --light: #1e1e21 !important;
   --dark: #fbfffe !important;
