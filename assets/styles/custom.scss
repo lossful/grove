@@ -4,11 +4,16 @@
   --dark: #440400;
   --secondary: #440400bd;
   --tertiary: #440400;
-  --visited: #440400e6;
+  --visited: #4404006e;
   --primary: #f28482;
   --gray: #440400;
   --lightgray: #f0f0f0;
   --outlinegray: #44040024;
+  --g-link-active: #440400ad !important;
+}
+
+article a.internal-link {
+  background-color: #4404001a !important;
 }
 
 [saved-theme="dark"] {
