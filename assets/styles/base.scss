@@ -75,10 +75,15 @@ sup {
   line-height: 0
 }
 
-p, tbody, li {
+p, tbody, li, details {
   font-family: Source Sans Pro;
   color: var(--gray);
   line-height: 1.5em;
+}
+
+details {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 
 blockquote {
