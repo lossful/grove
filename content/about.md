@@ -3,15 +3,17 @@ title: О себе
 ---
 
 <details><summary>Фото</summary>
-<iframe src="https://pixelfed.social/p/Marc/362700713537484868/embed?caption=false&likes=false&layout=compact" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script async defer src="https://pixelfed.social/embed.js"></script>
+<img src='https://pixelfed-prod.nyc3.cdn.digitaloceanspaces.com/public/m/_v2/792/4f8b684e5-e9314a/Eyo9eburKD6z/yUwgRXN87e66meEYQwQNRgAlcY1Vx9R3Xo4MN80D.jpg'>
 </details>
 
-Хайдзин-рыболов.
+Пишу хайку и подобную поэзию.<br>  
+Люблю кастинговую ловлю, шахматы/го. <br>  
+Интересуюсь всем по-немногу.
 
-#### Написать мне
+Сейчас ищу работу, если кому-то нужен сотрудник отправьте им [эту ссылку](work.md). Спасибо. )
 
+### Написать мне
 Отвечаю всегда, но иногда не сразу. )
-
 - Matrix [@marc:tchncs.de](https://matrix.to/#/@marc:tchncs.de)
 - Telegram [@Lossful](https://t.me/lossful)
 - E-mail **vaups2o8@duck.com**
