@@ -3,5 +3,5 @@ title: 🍁 Марк
 ---
 
 - [Контакты](contact.md)
-- [Поэзия](poetry.md) и [заметки](notes/_index.md)
+- [Поэзия](/poems) и [заметки](notes)
 - [Фотографии](https://pixelfed.social/Marc "@marc@pixelfed.social") ActivityPub  
